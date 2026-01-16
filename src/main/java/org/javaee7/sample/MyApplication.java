@@ -7,4 +7,4 @@ import javax.ws.rs.core.Application;
 public class MyApplication extends Application {
 
 }
-A3
+A4
